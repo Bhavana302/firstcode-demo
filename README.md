@@ -1,3 +1,3 @@
 # firstcode-demo
-This is my first repository.
-author - Bhavana
+This is my first repository.<br>
+Author - Bhavana
